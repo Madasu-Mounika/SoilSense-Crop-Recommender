@@ -1,4 +1,5 @@
-🌾 Hybrid Soil Analysis & Crop Recommendation System
+# 🌾 Hybrid Soil Analysis & Crop Recommendation System
+
 An intelligent AI-powered agriculture support system that analyzes soil images and environmental conditions to recommend the most suitable crops for farmers.
 The system combines Computer Vision, Machine Learning, and Geographic Data to make accurate crop recommendations.
 
@@ -34,8 +35,8 @@ SoilSense-Crop-Recommender/
 ⚙️ Installation
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/repositoryname.git
-cd repositoryname
+-git clone https://github.com/yourusername/repositoryname.git
+-cd repositoryname
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
