@@ -32,19 +32,19 @@ SoilSense-Crop-Recommender/
 ├── screenshots/            
 └── README.md
 
-⚙️ Installation
+# ⚙️ Installation
 
-1️⃣ Clone the Repository
+# 1️⃣ Clone the Repository
 
 -git clone https://github.com/yourusername/repositoryname.git
 
 -cd repositoryname
 
-2️⃣ Install Dependencies
+# 2️⃣ Install Dependencies
 
 -pip install -r requirements.txt
 
-3️⃣ Run the Application
+# 3️⃣ Run the Application
 
 -streamlit run app.py
 
